@@ -57,9 +57,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -89,8 +86,6 @@ Clone this repository to your desired folder:
 Install this project with:
 -Run npm install 
 
-
-
 ### Usage
 
 To run the project, execute the following command:
@@ -98,15 +93,9 @@ To run the project, execute the following command:
 -Open the project in your favourite text editor
 -Run npm install to install project dependencie
 
-
-### Deployment
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -145,7 +134,6 @@ I would like to thank...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
