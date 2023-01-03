@@ -39,35 +39,12 @@
 > Describe your project in 1 or 2 sentences.
 
 **[Leaderboard]** 
--This project is a to do list
+-This project is Leadeboard for taking scores
 
 ## 🛠 Built With <a name="built-with"></a>
 -Html
 -Css
 -Javascript
-
-
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -77,8 +54,6 @@
 
 - **[key_feature_1]**
  -Home page
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,8 +106,6 @@ To run the project, execute the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
@@ -140,22 +113,6 @@ To run the project, execute the following command:
 -GitHub: [Daniel-Kigozi](https://github.com/Daniel-Kigozi)
 -Twitter: [@DanielKigozi15](https://twitter.com/@DanielKigozi15)
 -LinkedIn: [daniel-kigozi-375182208/](https://www.linkedin.com/in/daniel-kigozi-375182208/)
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -197,8 +154,6 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/Daniel-Kigozi/Mobile-First/blob/my-html/LICENSE.md) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
