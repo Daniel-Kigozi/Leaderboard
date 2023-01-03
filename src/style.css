@@ -1,49 +1,59 @@
+nav p {
+  text-align: center;
+}
+
+nav {
+  background-color: rgb(114, 108, 108);
+  height: 10vh;
+}
 
 .scores-add {
   display: flex;
   margin: 10%;
   justify-content: space-between;
 }
+
 .recent-scores {
-    width: 30%;
+  width: 30%;
 }
+
 .mydescription {
-    display: flex;
+  display: flex;
   align-items: center;
 }
+
 #btnrefresh {
   height: 2rem;
   width: 5rem;
   margin-left: 2%;
 }
-.result-scored {
-    border: 5px solid black;
-}
+
 .result-scored p {
-    padding: 2%;
-    margin: 0; 
+  padding: 2%;
+  margin: 0;
 }
+
+.result-scored {
+  border: 5px solid black;
+}
+
 .result-scored p:nth-child(even) {
-    background: rgb(114, 108, 108);
+  background: rgb(114, 108, 108);
 }
+
 .addresults {
-    display: flex;
+  display: flex;
   flex-direction: column;
   width: 30%;
   justify-content: space-between;
   height: 25vh;
 }
+
 h1 {
-    margin-left: 135px;
+  margin-left: 135px;
 }
-nav {
-    background-color: rgb(114, 108, 108);
-    height: 10vh;
-}
-nav p{
-  text-align: center;
-}
+
 footer {
-    background-color: rgb(114, 108, 108);
-    height: 5vh;
+  background-color: rgb(114, 108, 108);
+  height: 5vh;
 }
