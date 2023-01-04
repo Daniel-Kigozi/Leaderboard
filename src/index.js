@@ -2,7 +2,6 @@ import './style.css';
 import './modules/post.js';
 import getScores from './modules/get.js';
 
-
 const Resultscored = document.querySelector('.result-scored');
 const Refresh = document.querySelector('#btnrefresh');
 Refresh.addEventListener('click', async () => {
