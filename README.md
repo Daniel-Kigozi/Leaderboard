@@ -39,7 +39,7 @@
 > Describe your project in 1 or 2 sentences.
 
 **[Leaderboard]** 
--This project is Leadeboard for taking scores
+-This project is Leadeboard for taking scores from an API
 
 ## 🛠 Built With <a name="built-with"></a>
 -Html
