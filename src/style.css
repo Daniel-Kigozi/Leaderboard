@@ -1,7 +1,6 @@
 body {
-  margin: 0px;
+  margin: 0;
   background-color: rgb(240, 240, 244);
-
 }
 
 nav p {
@@ -11,14 +10,12 @@ nav p {
 nav {
   background-color: rgb(114, 108, 108);
   height: 10vh;
-  
 }
 
 .scores-add {
   display: flex;
-  margin:auto 20% 1% 10%;
+  margin: auto 20% 1% 10%;
   justify-content: space-around;
-
 }
 
 .recent-scores {
@@ -30,7 +27,6 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 3px;
-  
 }
 
 #btnrefresh {
@@ -39,7 +35,6 @@ nav {
   margin-left: 2%;
   box-shadow: 3px 3px;
   border-color: black;
-  
 }
 
 .result-scored p {
@@ -65,26 +60,25 @@ nav {
 
 h1 {
   margin: 40px 40px 40px 90px;
-  
-  
 }
 
 footer {
   background-color: rgb(114, 108, 108);
   height: 5vh;
 }
+
 input {
   height: 100px;
   margin: 5px;
   border-color: black;
 }
+
 #submit {
   height: 5rem;
   width: 5rem;
   box-shadow: 3px 3px;
   border-color: black;
-  position:relative;
+  position: relative;
   top: 2%;
   left: 79%;
-
 }
