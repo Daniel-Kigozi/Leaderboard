@@ -1,3 +1,8 @@
+body {
+  margin: 0;
+  background-color: rgb(240, 240, 244);
+}
+
 nav p {
   text-align: center;
 }
@@ -9,23 +14,27 @@ nav {
 
 .scores-add {
   display: flex;
-  margin: 10%;
-  justify-content: space-between;
+  margin: auto 20% 1% 10%;
+  justify-content: space-around;
 }
 
 .recent-scores {
-  width: 30%;
+  width: 40%;
 }
 
 .mydescription {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  padding: 3px;
 }
 
 #btnrefresh {
   height: 2rem;
   width: 5rem;
   margin-left: 2%;
+  box-shadow: 3px 3px;
+  border-color: black;
 }
 
 .result-scored p {
@@ -44,16 +53,32 @@ nav {
 .addresults {
   display: flex;
   flex-direction: column;
-  width: 30%;
+  width: 40%;
   justify-content: space-between;
   height: 25vh;
 }
 
 h1 {
-  margin-left: 135px;
+  margin: 40px 40px 40px 90px;
 }
 
 footer {
   background-color: rgb(114, 108, 108);
   height: 5vh;
+}
+
+input {
+  height: 100px;
+  margin: 5px;
+  border-color: black;
+}
+
+#submit {
+  height: 5rem;
+  width: 5rem;
+  box-shadow: 3px 3px;
+  border-color: black;
+  position: relative;
+  top: 2%;
+  left: 79%;
 }
